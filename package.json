@@ -1,0 +1,11 @@
+{
+  "name": "demo-pnpm-vuln",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Intentionally vulnerable demo for Raccoon pnpm lockfile fix PRs. Do not deploy.",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "4.17.20",
+    "minimist": "1.2.5"
+  }
+}
